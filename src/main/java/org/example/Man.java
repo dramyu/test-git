@@ -10,4 +10,8 @@ public class Man {
     public void run(){
         System.out.println("快跑");
     }
+    public void gohome(){
+        this.run();
+        System.out.println("跑着跑着就到家了");
+    }
 }
