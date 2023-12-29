@@ -7,4 +7,7 @@ public class Man {
     public void eat(String food){
         System.out.println("男人吃"+food);
     }
+    public void run(){
+        System.out.println("快跑");
+    }
 }
