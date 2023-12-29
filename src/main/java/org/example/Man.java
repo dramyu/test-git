@@ -12,6 +12,6 @@ public class Man {
     }
     public void gohome(){
         this.run();
-        System.out.println("跑着跑着就到家了");
+        System.out.println("hot-fix");
     }
 }
