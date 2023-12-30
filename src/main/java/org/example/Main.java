@@ -8,5 +8,6 @@ public class Main {
         Man man = new Man();
         man.sayHello();
         System.out.println("push test!");
+        System.out.println("pull test!");
     }
 }
